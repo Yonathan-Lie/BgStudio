@@ -1,0 +1,13 @@
+{
+  "name": "bgstudio",
+  "version": "1.0.0",
+  "description": "Lightweight, 100% client-side background remover and color changer ready for Alpine Docker",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/processor.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+.git
+.github
+.gitignore
+node_modules
+tests
+README.md
+run.bat
+docker-compose.yml
